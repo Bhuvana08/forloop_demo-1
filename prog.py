@@ -5,3 +5,7 @@ def for_loop():
 """2nd for loop"""
 	for i in range(5):
 		print i
+
+
+
+print ""
